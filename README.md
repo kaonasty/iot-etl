@@ -2,7 +2,7 @@
 
 A comprehensive hands-on project for learning **Batch ETL** (Apache Spark) and **Stream ETL** (Apache Kafka) using mockup IoT sensor data.
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 flowchart TD
@@ -210,7 +210,3 @@ LIMIT 10;
 - **Spark Worker UI**: http://localhost:8081
 
 ---
-
-**Author**: [Your Name]  
-**Last Updated**: 2026-02-13  
-**Version**: 1.0
